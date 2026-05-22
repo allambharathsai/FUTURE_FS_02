@@ -1,4 +1,4 @@
-# Client Lead Management System (Mini CRM)
+<img width="1907" height="999" alt="image" src="https://github.com/user-attachments/assets/7197961a-3cfb-406f-9584-663c6f6d1d33" /># Client Lead Management System (Mini CRM)
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -7,6 +7,12 @@
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FUTURE_FS_02-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 🌐 Live Demo
+
+👉 [Click here to view](https://allambharathsai.github.io/FUTURE_FS_02/) 
+
+---
 ## 📌 Project Overview
 
 The **Client Lead Management System (Mini CRM)** is a full-stack web application designed to help businesses efficiently manage and track customer leads throughout the sales process.
