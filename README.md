@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Click here to view](https://allambharathsai.github.io/FUTURE_FS_02/) 
+👉 [Click here to view](https://future-fs-02-three-peach.vercel.app/) 
 
 ---
 ## 📌 Project Overview
