@@ -1,3 +1,6 @@
+# 👥 Client Lead Management System (Mini CRM)
+
+> A modern, responsive, and user-friendly Client Lead Management System developed to manage customer leads, follow-ups, contact details, and business interactions efficiently.
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -17,8 +20,6 @@
 The **Client Lead Management System (Mini CRM)** is a full-stack web application designed to help businesses efficiently manage and track customer leads throughout the sales process.
 
 The system allows administrators to securely manage incoming leads, update their progress, maintain follow-up records, and monitor conversion performance through an interactive dashboard.
-
-This project was developed as part of the **Future Interns - Full Stack Web Development Internship** for **Task 2 - Client Lead Management System (Mini CRM)**.
 
 ## 🧩 Problem Statement
 
@@ -144,8 +145,8 @@ This project demonstrates how a modern CRM system helps businesses organize clie
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/allambharathsai/FUTURE_FS_02.git
-cd FUTURE_FS_02
+git clone https://github.com/allambharathsai/Client_Lead_Management_System_-Mini-CRM-_.git
+cd Client_Lead_Management_System_-Mini-CRM-_
 ```
 
 ### 2. Install Backend Dependencies
@@ -241,7 +242,7 @@ Password: Admin@12345
 ## 📁 Project Structure
 
 ```text
-FUTURE_FS_02/
+Client_Lead_Management_System_-Mini-CRM-_/
 |-- backend/
 |   |-- config/
 |   |   |-- db.js
@@ -377,16 +378,6 @@ This project strengthened my understanding of frontend development, backend APIs
 - Cloud Deployment
 - Real-Time Notifications
 
-## 🏢 Internship Information
-
-| Field | Details |
-| --- | --- |
-| Organization | Future Interns |
-| Track | Full Stack Web Development |
-| Task Number | Task 2 |
-| Project | Client Lead Management System (Mini CRM) |
-| Repository | FUTURE_FS_02 |
-
 ## 👨‍💻 Developer
 
 **ALLAM BHARATH SAI**
@@ -408,8 +399,6 @@ Passionate about Full Stack Development, Web Technologies, Software Engineering,
 
 ### Professional Summary
 
-I developed this **Client Lead Management System (Mini CRM)** as part of the **Future Interns Full Stack Web Development Internship**.
-
 This project provided practical experience in building a complete full-stack application using React, Node.js, Express.js, and MongoDB. It helped me understand real-world CRM workflows, lead management processes, authentication systems, database operations, and API development.
 
 Through this project, I strengthened my skills in:
@@ -430,6 +419,6 @@ One of the most valuable lessons from this project was understanding how busines
 [![GitHub](https://img.shields.io/badge/GitHub-allambharathsai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allambharathsai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allam%20Bharath%20Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allambharathsai/)
 
-## 📄 License
+---
 
-This project is created for internship and educational purposes.
+© 2026 ALLAM BHARATH SAI. All Rights Reserved.
